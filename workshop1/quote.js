@@ -5,7 +5,7 @@
  */
 
 var things = ["Matrix", "Lawrence Fishburne", "Kung Fu", "Slow Motion", "Blue Pill", "Red Pill"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
+var programmers = ["blood", "nihilism", "R-Rating", "Dictatorship", "Cyber Spiders", "Agent"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
